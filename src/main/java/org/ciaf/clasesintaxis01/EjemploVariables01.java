@@ -12,15 +12,17 @@ public class EjemploVariables01 {
 
     // Método principal para ejecutar el programa
     public static void main(String[] args) {
+        int edad = 25;
+        double estatura = 1.75;
+        System.out.println("edad = " + edad);
+        System.out.println("estatura = " + estatura);
+    }
 
         // Declaración e inicialización de variables
-        int edad = 25; // variable de tipo entero para almacenar la edad
-        double estatura = 1.75; // variable de tipo doble para almacenar la estatura
+        // variable de tipo entero para almacenar la edad
+        // variable de tipo doble para almacenar la estatura
         String nombre = "Juan"; // variable de tipo cadena para almacenar el nombre
 
         // Mostrar los valores de las variables en la consola
-        System.out.println("Nombre: " + nombre);
-        System.out.println("Edad: " + edad);
-        System.out.println("Estatura: " + estatura);
-    }
+    
 }
