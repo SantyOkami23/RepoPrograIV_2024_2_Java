@@ -8,10 +8,14 @@ public class EjemploExpresionesAreaCuadrado11 {
     private double altura;
 
     // Constructor
+
+
     public EjemploExpresionesAreaCuadrado11(double ancho, double altura) {
         this.ancho = ancho;
         this.altura = altura;
     }
+
+
 
     // Método para calcular el área del rectángulo
     public double calcularArea() {
