@@ -2,7 +2,7 @@ package org.ciaf.claseciclosycondicionales02;
 
 public class EjemploTiendaProductos {
     // Definición de productos con sus respectivas restricciones de edad
-    private static String producto1 = "Laptop";
+     static String producto1 = "Laptop";
     private static Integer restriccionEdad1 = null; // No hay restricciones de edad para la laptop
 
     private static String producto2 = "Smartphone";
@@ -27,6 +27,8 @@ public class EjemploTiendaProductos {
             return edadCliente >= restriccionEdad;
         }
     }
+
+
 
     public static void main(String[] args) {
         // Edad del cliente (puede ser null si no se conoce)
