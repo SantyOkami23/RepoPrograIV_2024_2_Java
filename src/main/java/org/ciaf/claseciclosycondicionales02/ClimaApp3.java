@@ -5,6 +5,7 @@ public class ClimaApp3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese la temperatura actual en grados Celsius: ");
+
         int temperatura = scanner.nextInt();
 
         if (temperatura > 25) {
