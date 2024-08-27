@@ -22,5 +22,6 @@ public class EjemploVariables01 {
         System.out.println("Nombre: " + nombre);
         System.out.println("Edad: " + edad);
         System.out.println("Estatura: " + estatura);
+        System.out.println( "hola que mas");
     }
 }

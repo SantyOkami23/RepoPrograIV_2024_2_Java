@@ -1,6 +1,6 @@
 package org.ciaf.clasesintaxis01;
 
-public class CaracteresEspeciales03 {
+public class  CaracteresEspeciales03 {
 
     public static void main(String[] args) {
 

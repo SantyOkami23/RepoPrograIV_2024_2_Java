@@ -2,7 +2,7 @@ package org.ciaf.clasesintaxis01;
 
 import java.util.Scanner;
 
-public class EjemploEstructurasControl09 {
+public class  EjemploEstructurasControl09 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
