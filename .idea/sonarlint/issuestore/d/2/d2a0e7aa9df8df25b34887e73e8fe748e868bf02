@@ -1,0 +1,10 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñåù“ûÿÿÿÿ
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¡Ò¶üÿÿÿÿ
+x
+java:S4165"bRemove this useless assignment; "edad" already holds the assigned value along all execution paths.(„ïûí
+g	java:S116"MRename this field "CC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¬§¾ýÿÿÿÿ
+E
+java:S1656"/Remove or correct this useless self-assignment.(„ïûí
+F
+java:S1068	"+Remove this unused "salario" private field.(¹¥±‘üÿÿÿÿ
