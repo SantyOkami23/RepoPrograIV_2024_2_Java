@@ -35,6 +35,20 @@ public class EjemploArrayListString05 {
         }
 
         // Eliminar un elemento de la lista
+        eliminar(scanner, lista);
+
+        // Actualizar un elemento de la lista
+        // Actualizar un elemento de la lista
+        actualizar(scanner, lista);
+
+
+        // Mostrar la lista después de los cambios
+        System.out.println("Lista después de los cambios: " + lista);
+
+        scanner.close();
+    }
+
+    private static void eliminar(Scanner scanner, List<String> lista) {
         System.out.print("Ingrese el elemento que desea eliminar de la lista: ");
         String elementoEliminar = scanner.nextLine();
         if (lista.remove(elementoEliminar)) {
@@ -42,9 +56,9 @@ public class EjemploArrayListString05 {
         } else {
             System.out.println("El elemento '" + elementoEliminar + "' no se encuentra en la lista");
         }
+    }
 
-        // Actualizar un elemento de la lista
-        // Actualizar un elemento de la lista
+    private static void actualizar(Scanner scanner, List<String> lista) {
         System.out.print("Ingrese el índice del elemento que desea actualizar en la lista: ");
         int indiceActualizar = scanner.nextInt();
         scanner.nextLine(); // Consumir la nueva línea pendiente
@@ -56,11 +70,5 @@ public class EjemploArrayListString05 {
         } else {
             System.out.println("indice fuera de los límites de la lista. No se puede actualizar el elemento.");
         }
-
-
-        // Mostrar la lista después de los cambios
-        System.out.println("Lista después de los cambios: " + lista);
-
-        scanner.close();
     }
 }
