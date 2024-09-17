@@ -1,0 +1,21 @@
+Ejercicio
+Escribe una clase ListaMultimedia para almacenar objetos de tipo multimedia. La clase debe tener un atributo, que sea un array de objetos Multimedia y un entero para contar cuantos objetos hay almacenados. Además, tiene un constructor y los siguientes métodos:
+
+el constructor recibe un entero por parámetro indicando el número máximo de objetos que va a almacenar.
+int size(): devuelve el número de objetos que hay en la lista.
+
+boolean add(Multimedia m): añade el objeto al final de la lista, y devuelve true, en caso de que la lista esté llena, devuelve false.
+
+Multimedia get(int position): devuelve el objeto situado en la posición especificada.
+
+String toString(): devuelve la información de los objetos que están en la lista.
+
+Como puede hacerse
+
+En el constructor se crea el array con el tamaño especificado y se inicializa el contador a 0. Se implementa el método listaLlena(), para uso interno (método privado).
+
+El número de objetos se almacena en el contador, así que simplemente se devuelve el valor del atributo.
+
+Este método se usa en add(). Si no está llena, se almacena el objeto en la celda indicada por el contador, y se incrementa éste.En get() se comprueba que la posición es válida y se devuelve el objeto. Si no fuese una posición válida, se lanzaría la excepción IndexOutOfBoundsException().
+
+En el método toString() se utiliza un String para ir acumulando las llamadas al método toString() de los objetos multimedia. Al final, devuelve el String.
