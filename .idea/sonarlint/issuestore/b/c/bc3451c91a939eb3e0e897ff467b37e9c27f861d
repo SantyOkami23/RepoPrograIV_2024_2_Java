@@ -1,0 +1,9 @@
+
+S
+java:S1854"=Remove this useless assignment to local variable "pelicula4".(¤ñË‚
+S	java:S106"9Replace this use of System.out or System.err by a logger.(È€Øþûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ëï‹Þøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(è¥Æ§
+D
+java:S1481".Remove this unused "pelicula4" local variable.(¤ñË‚
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…º›Óúÿÿÿÿ

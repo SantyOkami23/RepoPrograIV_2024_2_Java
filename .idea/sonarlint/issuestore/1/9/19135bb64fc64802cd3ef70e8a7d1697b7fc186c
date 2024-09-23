@@ -1,0 +1,16 @@
+
+i
+java:S1192 "NDefine a constant instead of duplicating this literal "El elemento '" 4 times.(°èÍÔûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜¿ì
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥±óışÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¹¨€
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(°èÍÔûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÊêÂ‚ÿÿÿÿÿ
+U	java:S106."9Replace this use of System.out or System.err by a logger.(É—Ã°8šŒÑÌ2
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(“§˜êÿÿÿÿÿ8¢ÂÑÌ2
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(ÏŠàê8¥ÂÑÌ2
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(Ğ´Š8¦ÂÑÌ2
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(– åâ8§ÂÑÌ2
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(¤µãØùÿÿÿÿ8ëÛÔÌ2
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(öÕ‡Ÿıÿÿÿÿ8ìÛÔÌ2
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(…¾ßú8íÛÔÌ2
