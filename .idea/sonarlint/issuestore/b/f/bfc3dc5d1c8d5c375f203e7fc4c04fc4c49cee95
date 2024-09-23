@@ -1,0 +1,13 @@
+
+d
+java:S1192 "NDefine a constant instead of duplicating this literal "El elemento '" 3 times.(Äƒ»Û
+S	java:S106"9Replace this use of System.out or System.err by a logger.(þ«©çÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(É‘ãå
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß©²´ýÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Äƒ»Û
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Šþ’®
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(¸ü‚`
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(†¨Í
+
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ÛÌø²ûÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ßË‡ðúÿÿÿÿ
