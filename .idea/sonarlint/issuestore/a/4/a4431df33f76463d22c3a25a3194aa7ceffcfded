@@ -1,0 +1,27 @@
+
+k	java:S116"QRename this field "Nombre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¾Îüÿÿÿÿ
+h	java:S116"TRename this field "Apellidos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¤‡
+i	java:S116"ORename this field "Edad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕŞ‚ğúÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Û¶òÇşÿÿÿÿ
+–
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( î 
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â÷Ö‹ÿÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãï‡ƒùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¶òÇşÿÿÿÿ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( î 
+A
+java:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ
+E
+java:S1068"*Remove this unused "Nombre" private field.(Ş¾Îüÿÿÿÿ
+B
+java:S1068"-Remove this unused "Apellidos" private field.(ı¤‡
+C
+java:S1068"(Remove this unused "Edad" private field.(ÕŞ‚ğúÿÿÿÿ
+@
+java:S1068	"*Remove this unused "dorsal" private field.(¼¦ñ”
+E
+java:S1068
+"/Remove this unused "demarcacion" private field.(¾

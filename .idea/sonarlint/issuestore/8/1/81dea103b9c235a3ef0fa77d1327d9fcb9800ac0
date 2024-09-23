@@ -1,0 +1,20 @@
+
+f
+java:S1192."KDefine a constant instead of duplicating this literal "La clave '" 3 times.(àäª£ýÿÿÿÿ
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(î¹æÞýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÍÐÍþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉòŠæ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(š¼¯’
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(û©‚òøÿÿÿÿ
+M	java:S106("9Replace this use of System.out or System.err by a logger.(°Õ®2
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(É»àå
+S	java:S106."9Replace this use of System.out or System.err by a logger.(àäª£ýÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ù½ˆÎ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ðÂŽý
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ï’“×
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ÑÊë•
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(¸Ü’øøÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(óñ˜üúÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ë×âòûÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ë•ùÀùÿÿÿÿ

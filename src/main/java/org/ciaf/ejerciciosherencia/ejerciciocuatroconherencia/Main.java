@@ -40,10 +40,13 @@ public class Main {
         System.out.print(raulMartinez.getNombre()+" "+raulMartinez.getApellidos()+" -> ");
         raulMartinez.darMasaje();
 
-        invocarDirigiPartido(delBosque, iniesta);
+
+        invocarPartido(delBosque, iniesta);
+
+
     }
 
-    private static void invocarDirigiPartido(Entrenador delBosque, Futbolista iniesta) {
+    private static void invocarPartido(Entrenador delBosque, Futbolista iniesta) {
         // PARTIDO DE FUTBOL
         System.out.println("nPartido de Fútbol: Solamente el entrenador y el futbolista tiene metodos para el partido de fútbol:");
         System.out.print(delBosque.getNombre()+" "+ delBosque.getApellidos()+" -> ");
@@ -51,6 +54,7 @@ public class Main {
         System.out.print(iniesta.getNombre()+" "+ iniesta.getApellidos()+" -> ");
         iniesta.jugarPartido();
     }
+
 
     private static void llamadoConcentracion() {
         // CONCENTRACION
