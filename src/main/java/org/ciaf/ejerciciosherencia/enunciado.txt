@@ -1,0 +1,10 @@
+Herencia y Polimorfismo en un juego de rol
+
+Define una clase base llamada Personaje con atributos como nombre, vida y ataque.
+Crea subclases de Personaje como Guerrero, Mago y Arquero, cada una con habilidades y
+atributos específicos relacionados con su clase.
+Implementa métodos como atacar() y recibir_danio() en la clase base y en cada subclase
+para simular la interacción de los personajes en el juego.
+Crea objetos de diferentes subclases y simula encuentros entre ellos llamando a los
+métodos correspondientes para atacar y recibir daño, observando cómo se comporta el
+polimorfismo en el juego.
