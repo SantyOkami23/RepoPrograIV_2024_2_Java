@@ -1,11 +1,11 @@
-package org.ciaf.ejerciciosencapsulamiento;
+package org.ciaf.practicas;
 
 public class CuentaBancaria {
     private Double saldo;
     private String nombreCliente;
 
-    public CuentaBancaria(double saldoInicial, String nombreCliente) {
-        this.nombreCliente= nombreCliente;
+    public CuentaBancaria(String nombreCliente, double saldoInicial) {
+        this.nombreCliente= this.nombreCliente;
         if (saldoInicial >=0){
             this.saldo= saldoInicial;
         }else{
@@ -29,8 +29,18 @@ public class CuentaBancaria {
             }else{
                 System.out.println("Fondos insuficientes. No se puede retirar" + monto);
             }
+        }else{
+            System.out.println("el monto a retirar debe ser mayor a 0.");
         }
     }
 
+    public double obtenerSaldo(){
+        return saldo;
+    }
+
+    public String obtenerNombreCliente(){
+        return nombreCliente;
+    }
 }
+
 
