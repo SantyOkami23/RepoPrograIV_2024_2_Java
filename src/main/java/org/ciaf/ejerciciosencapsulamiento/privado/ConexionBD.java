@@ -22,3 +22,4 @@ public class ConexionBD {
         System.out.println("Ejecutando consulta: " + consulta);
     }
 }
+
